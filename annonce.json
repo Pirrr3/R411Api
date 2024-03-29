@@ -5,7 +5,7 @@
       "libelle": "Annonce 1",
       "description": "Description de l'annonce 1",
       "prix": 100,
-      "etat": "En cours",
+      "etat": "Bon_etat",
       "utilisateur": "Vendeur 1"
     },
     {
@@ -14,7 +14,7 @@
       "libelle": "Annonce 2",
       "description": "Description de l'annonce 2",
       "prix": 150,
-      "etat": "Terminée",
+      "etat": "Mauvais",
       "utilisateur": "Vendeur 2"
     },
     {
@@ -23,7 +23,7 @@
       "libelle": "Annonce 3",
       "description": "Description de l'annonce 3",
       "prix": 200,
-      "etat": "En cours",
+      "etat": "Neuf",
       "utilisateur": "Vendeur 3"
     }
   ]
