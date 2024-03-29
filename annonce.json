@@ -6,7 +6,7 @@
       "description": "Description de l'annonce 1",
       "prix": 100,
       "etat": "En cours",
-      "vendeur": "Vendeur 1"
+      "utilisateur": "Vendeur 1"
     },
     {
       "id": 2,
@@ -15,7 +15,7 @@
       "description": "Description de l'annonce 2",
       "prix": 150,
       "etat": "Terminée",
-      "vendeur": "Vendeur 2"
+      "utilisateur": "Vendeur 2"
     },
     {
       "id": 3,
@@ -24,7 +24,7 @@
       "description": "Description de l'annonce 3",
       "prix": 200,
       "etat": "En cours",
-      "vendeur": "Vendeur 3"
+      "utilisateur": "Vendeur 3"
     }
   ]
   
