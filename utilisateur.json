@@ -15,6 +15,22 @@
       ]
 
     }
+        {
+      "mail": "PierreG@gmail.com",
+      "password": "1234",
+      "nom": "Gaudin",
+      "prenom": "Pierre",
+      "numTel": "0723569628",
+      "note": 0.5,
+      "sommeNotes": 0.5,
+      "nbNotes":10,
+      "annonces":[
+        {"id": "gf2gqjtu4"},
+        {"id": "4ge6ghrhj"},
+        {"id": "zrqhh6kqg"}
+      ]
+
+    }
   ]
   
 
