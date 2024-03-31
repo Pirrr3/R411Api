@@ -6,7 +6,7 @@
       "description": "Peugeot 207 1.4 urban move 75 chevaux Boite de vitesse 5 rapports 05/2009",
       "prix": 4000,
       "etat": "Bon_etat",
-      "utilisateur": "Thomas Portelette",
+      "utilisateur": "ThomasP@gmail.com",
       "image": "voiture.png"
     },
     {
@@ -16,7 +16,7 @@
       "description": "Je vend le pc de mon fils",
       "prix": 150,
       "etat": "Moyen",
-      "utilisateur": "Vendeur 2",
+      "utilisateur": "PierreG@gmail.com",
       "image": "pc.png"
     },
     {
@@ -26,7 +26,7 @@
       "description": "Authentique vase des années 1900 signé par Louis XIV",
       "prix": 100000,
       "etat": "Neuf",
-      "utilisateur": "Vendeur 3",
+      "utilisateur": "ThomasP@gmail.com",
       "image": "vase.png"
     }
   ]
