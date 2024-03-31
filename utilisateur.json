@@ -1,10 +1,10 @@
 [
     {
-      "Mail": "ThomasP@gmail.com",
-      "Mdp": "1234",
-      "Nom": "Portelette",
-      "Prenom": "Thomas",
-      "NumTel": "0674589512",
+      "mail": "ThomasP@gmail.com",
+      "password": "1234",
+      "nom": "Portelette",
+      "prenom": "Thomas",
+      "numTel": "0674589512",
       "note": 3.5,
       "sommeNotes": 2.5,
       "nbNotes":10,
