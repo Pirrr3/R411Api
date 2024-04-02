@@ -18,7 +18,37 @@
       "note": 0.5,
       "sommeNotes": 0.5,
       "nbNotes":10
-    }
+    },
+    {
+      "mail": "DavidT@gmail.com",
+      "password": "1234",
+      "nom": "Ton",
+      "prenom": "David",
+      "numTel": "0726589741",
+      "note": 4.5,
+      "sommeNotes": 2.5,
+      "nbNotes":3
+    },
+    {
+      "mail": "SebastienL@gmail.com",
+      "password": "1234",
+      "nom": "Lallement",
+      "prenom": "Sébastien",
+      "numTel": "0783770564",
+      "note": 5.0,
+      "sommeNotes": 5.0,
+      "nbNotes":100
+    },
+    {
+      "mail": "FredericR@gmail.com",
+      "password": "1234",
+      "nom": "Rallo",
+      "prenom": "Frédéric",
+      "numTel": "0102030405",
+      "note": 5.0,
+      "sommeNotes": 5.0,
+      "nbNotes":10
+    },
   ]
   
 
