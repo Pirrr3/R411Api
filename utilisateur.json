@@ -7,13 +7,7 @@
       "numTel": "0674589512",
       "note": 3.5,
       "sommeNotes": 2.5,
-      "nbNotes":10,
-      "annonces":[
-        {"id": "gf2gqjtu4"},
-        {"id": "4ge6ghrhj"},
-        {"id": "zrqhh6kqg"}
-      ]
-
+      "nbNotes":10
     },
     {
       "mail": "PierreG@gmail.com",
@@ -23,13 +17,7 @@
       "numTel": "0782918319",
       "note": 0.5,
       "sommeNotes": 0.5,
-      "nbNotes":10,
-      "annonces":[
-        {"id": "gf2gqjtu4"},
-        {"id": "4ge6ghrhj"},
-        {"id": "zrqhh6kqg"}
-      ]
-
+      "nbNotes":10
     }
   ]
   
